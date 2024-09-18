@@ -11,10 +11,10 @@ import java.time.LocalDateTime;
 public class StudentCourses {
 
     private String id;
-    private String student_id;
+    private String studentId;
     private String course;
-    private LocalDateTime start_time;
-    private LocalDateTime finish_time;
+    private LocalDateTime startTime;
+    private LocalDateTime finishTime;
 
 
 }
