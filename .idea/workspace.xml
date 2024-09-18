@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="初回コミット">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/StudentCourses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/StudentRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -423,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726543643875</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="初回コミット">
+      <option name="closed" value="true" />
+      <created>1726669323832</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726669323832</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
