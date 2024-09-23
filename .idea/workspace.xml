@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="課題24の提出">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/data/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,7 @@
     "Gradle.studentmanagemet [:Application.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature/kadai24",
+    "git-widget-placeholder": "feature/kadai25",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/kabad/IdeaProjects/studentmanagemet",
     "project.structure.last.edited": "Problems",
