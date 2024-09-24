@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="Ignore .idea/workspace.xml" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="student.management" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;MERGED&quot;,
+      &quot;assignee&quot;: &quot;sakai-mamoru&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;MERGED&quot;,
+    &quot;assignee&quot;: &quot;sakai-mamoru&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sakaimamoru/kadai20&quot;,
+    &quot;accountId&quot;: &quot;48e93443-530d-4acd-8d5a-9eae204decb7&quot;
+  }
+}</component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="none" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2lPnym4cq6T8LgJpeJUnr67fqEQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Gradle.studentmanagemet [:Application.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "feature/kadai27 の #4",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kabad/IdeaProjects/studentmanagemet",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kabad\IdeaProjects\studentmanagemet\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="raisetech.student.management.Application" />
+      <module name="student.management.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="raisetech.student.management.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="raisetech.student.management.Application" />
+      <module name="student.management.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="raisetech.student.management.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\kabad\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="" />
+      <created>1725090836171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725090836171</updated>
+    </task>
+    <task id="LOCAL-00001" summary="初回コミット">
+      <option name="closed" value="true" />
+      <created>1725180169271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725180169271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初回コミット">
+      <option name="closed" value="true" />
+      <created>1726386825750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726386825750</updated>
+    </task>
+    <task id="LOCAL-00003" summary="課題18用コミット">
+      <option name="closed" value="true" />
+      <created>1726386907186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726386907186</updated>
+    </task>
+    <task id="LOCAL-00004" summary="課題18用コミット">
+      <option name="closed" value="true" />
+      <created>1726386994731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726386994731</updated>
+    </task>
+    <task id="LOCAL-00005" summary="課題18用コミット">
+      <option name="closed" value="true" />
+      <created>1726387017290</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726387017290</updated>
+    </task>
+    <task id="LOCAL-00006" summary="課題18用コミット">
+      <option name="closed" value="true" />
+      <created>1726387078779</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726387078779</updated>
+    </task>
+    <task id="LOCAL-00007" summary="課題18用コミット">
+      <option name="closed" value="true" />
+      <created>1726387979282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726387979282</updated>
+    </task>
+    <task id="LOCAL-00008" summary="課題18用コミット">
+      <option name="closed" value="true" />
+      <created>1726388095115</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726388095116</updated>
+    </task>
+    <task id="LOCAL-00009" summary="課題18用コミット">
+      <option name="closed" value="true" />
+      <created>1726388214634</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726388214634</updated>
+    </task>
+    <task id="LOCAL-00010" summary="課題18用コミット">
+      <option name="closed" value="true" />
+      <created>1726388459956</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726388459956</updated>
+    </task>
+    <task id="LOCAL-00011" summary="課題18用コミット">
+      <option name="closed" value="true" />
+      <created>1726388501054</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726388501054</updated>
+    </task>
+    <task id="LOCAL-00012" summary="課題18用コミット">
+      <option name="closed" value="true" />
+      <created>1726388735029</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726388735029</updated>
+    </task>
+    <task id="LOCAL-00013" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726492848403</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726492848403</updated>
+    </task>
+    <task id="LOCAL-00014" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726492979613</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726492979613</updated>
+    </task>
+    <task id="LOCAL-00015" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726493067191</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493067191</updated>
+    </task>
+    <task id="LOCAL-00016" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726493156699</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493156699</updated>
+    </task>
+    <task id="LOCAL-00017" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726493248967</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493248967</updated>
+    </task>
+    <task id="LOCAL-00018" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726493315308</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493315308</updated>
+    </task>
+    <task id="LOCAL-00019" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726493560066</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493560066</updated>
+    </task>
+    <task id="LOCAL-00020" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726493568998</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493568998</updated>
+    </task>
+    <task id="LOCAL-00021" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726493579161</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493579161</updated>
+    </task>
+    <task id="LOCAL-00022" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726493653597</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493653597</updated>
+    </task>
+    <task id="LOCAL-00023" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726493705733</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493705733</updated>
+    </task>
+    <task id="LOCAL-00024" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726493845904</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493845904</updated>
+    </task>
+    <task id="LOCAL-00025" summary="課題20用コミット">
+      <option name="closed" value="true" />
+      <created>1726494028818</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1726494028818</updated>
+    </task>
+    <task id="LOCAL-00026" summary="課題20用コミット-2">
+      <option name="closed" value="true" />
+      <created>1726494039383</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726494039383</updated>
+    </task>
+    <task id="LOCAL-00027" summary="課題20用コミット-2">
+      <option name="closed" value="true" />
+      <created>1726494200929</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726494200929</updated>
+    </task>
+    <task id="LOCAL-00028" summary="課題20用コミット-2">
+      <option name="closed" value="true" />
+      <created>1726494221134</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1726494221134</updated>
+    </task>
+    <task id="LOCAL-00029" summary="初回コミット">
+      <option name="closed" value="true" />
+      <created>1726494408214</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1726494408214</updated>
+    </task>
+    <task id="LOCAL-00030" summary="初回コミット">
+      <option name="closed" value="true" />
+      <created>1726542979645</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726542979645</updated>
+    </task>
+    <task id="LOCAL-00031" summary="初回コミット">
+      <option name="closed" value="true" />
+      <created>1726543643875</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726543643875</updated>
+    </task>
+    <task id="LOCAL-00032" summary="初回コミット">
+      <option name="closed" value="true" />
+      <created>1726669323832</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726669323832</updated>
+    </task>
+    <task id="LOCAL-00033" summary="課題24の提出">
+      <option name="closed" value="true" />
+      <created>1726934834253</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726934834253</updated>
+    </task>
+    <task id="LOCAL-00034" summary="課題24の提出">
+      <option name="closed" value="true" />
+      <created>1726934878835</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1726934878835</updated>
+    </task>
+    <task id="LOCAL-00035" summary="課題25の提出">
+      <option name="closed" value="true" />
+      <created>1727095444414</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1727095444414</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Ignore .idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1727147353488</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1727147353488</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Ignore .idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1727147763145</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1727147763145</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="課題18用コミット" />
+    <MESSAGE value="課題20用コミット" />
+    <MESSAGE value="課題20用コミット-2" />
+    <MESSAGE value="実験コミット" />
+    <MESSAGE value="初回コミット" />
+    <MESSAGE value="スネークケース→キャメルケース" />
+    <MESSAGE value="課題23を追加" />
+    <MESSAGE value="スネークケース→キャメルケース修正" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="課題25の提出" />
+    <MESSAGE value="Ignore .idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ignore .idea/workspace.xml" />
+  </component>
+</project>
