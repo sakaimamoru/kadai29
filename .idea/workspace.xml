@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="課題24の提出">
+    <list default="true" id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="課題25の提出">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/data/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -436,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726934878835</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="課題25の提出">
+      <option name="closed" value="true" />
+      <created>1727095444414</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1727095444414</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,6 +467,8 @@
     <MESSAGE value="スネークケース→キャメルケース" />
     <MESSAGE value="課題23を追加" />
     <MESSAGE value="スネークケース→キャメルケース修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="スネークケース→キャメルケース修正" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="課題25の提出" />
+    <option name="LAST_COMMIT_MESSAGE" value="課題25の提出" />
   </component>
 </project>
